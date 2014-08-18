@@ -38,11 +38,4 @@ Notes on design:
 	in 2 second intervals and the other in 3 second intervals.  A semaphore
 	is used to maintain thread access to the critical sections in both 
 	printing functions.
-	
-Lessons learned:
-	- How to create and manage threads
-	- How to use semaphores to maintain access to critical sections
-	- Experience with Linux
-	- How to create a Makefile
-	- Experience with the C language
 
