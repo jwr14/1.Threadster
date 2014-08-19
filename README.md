@@ -32,6 +32,7 @@ Compilation instructions:
 		- % ./sem
 
 Description:
+
 	The output should consist of printed messages detailing a list of
 	threads and the order in which they were serviced - which should be 
 	in 2-second intervals for even numbered threads and in 3-second 
@@ -40,6 +41,7 @@ Description:
 	running the program.  
 
 Notes on design:
+
 	To facilitate printing messages in 2-second intervals for even threads
 	and 3-second intervals for odd threads, I chose to create two separate
 	printing functions - one for evens and one for odds.  Upon creation
