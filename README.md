@@ -33,9 +33,10 @@ Compilation instructions:
 
 Description:
 
-	The output should consist of printed messages detailing a list of
-	threads and the order in which they were serviced - which should be 
-	in 2-second intervals for even numbered threads and in 3-second 
+	This is an excercise to create and manage multiple threads.  It will 
+	create six threads (0 - 5).  The output should consist of printed messages 
+	detailing a list of the threads and the order in which they were serviced - 
+	which should be in 2-second intervals for even numbered threads and in 3-second 
 	intervals for odd numbered threads.  The process ID and thread ID's 
 	are also printed to a file named SHARED.txt, which is created upon 
 	running the program.  
