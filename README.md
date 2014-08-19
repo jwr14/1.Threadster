@@ -1,4 +1,5 @@
-C---multiple-threads
+A project with multiple threads
+in C
 ====================
 
 multiple threads in C
