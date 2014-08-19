@@ -5,7 +5,7 @@ multiple threads in C
 
 Author:  Jason Ronquillo
 
-Class info:  CS570, summer 2014
+summer 2014
 
 this Filename:  README
 
