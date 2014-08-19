@@ -1,4 +1,4 @@
-/* This contains the function prototypes used in the corresponding source files for */
+/* This contains the function prototypes used in the corresponding source files */
 #include <stdio.h>
 #include <sys/types.h>
 #include <stdlib.h>
