@@ -5,7 +5,7 @@ multiple threads in C
 
 Author:  Jason Ronquillo
 
-Class info:  CS570 summer 2014
+Class info:  CS570, summer 2014
 
 this Filename:  README
 
@@ -23,9 +23,12 @@ Files included:
 
 Compilation instructions:
 	Once inside the correct directory, use the commands (in order):
-		% make clean
-		% make
-		% ./sem
+	
+		- % make clean
+		
+		- % make
+		
+		- % ./sem
 
 Description:
 	The output should consist of printed messages detailing a list of
