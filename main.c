@@ -1,7 +1,6 @@
 /*
-Author:  Jason Ronquillo, masc1425
-Assignment #1
-CS570, summer '14
+Author:  Jason Ronquillo
+summer '14
 */
 
 #include <stdio.h>
