@@ -1,8 +1,5 @@
 /*
-Author:  Jason Ronquillo, masc1425
-note - stackoverflow.com was used as a resource and there were
-some ideas and code used from:
-http://stackoverflow.com/questions/16951013/using-semaphore-for-multithreading-in-c
+Author:  Jason Ronquillo
 */
 
 #include <stdio.h>
