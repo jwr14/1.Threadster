@@ -22,7 +22,8 @@ Files included:
 	- README
 
 Compilation instructions:
-	Once inside the correct directory, use the commands (in order):
+
+	- Once inside the correct directory, use the commands (in order):
 	
 		- % make clean
 		
