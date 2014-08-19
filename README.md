@@ -8,10 +8,15 @@ Class info:  CS570 summer 2014
 this Filename:  README
 
 Files included:
+
 	- main.c 
+	
 	- functions.c
+	
 	- functions.h
+	
 	- Makefile
+	
 	- README
 
 Compilation instructions:
