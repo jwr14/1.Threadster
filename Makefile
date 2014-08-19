@@ -1,6 +1,6 @@
 ###########################################################  Makefile
-# CS570, Summer 2014, a1
-# Jason Ronquillo, masc1425
+# Summer 2014
+# Jason Ronquillo
 ###########################################################
 EXEC = sem
 CC = gcc       ###  or use cc / g++ / gcc   ###
